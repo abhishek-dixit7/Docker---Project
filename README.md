@@ -39,6 +39,6 @@ To create this project we have to setup our environment:
 	Enter Your Choice
 ![user-interface](https://github.com/rohitm17/Docker---Project/blob/master/last.png)	
 <PRE>	
-#ANY QUERY IN REGARD OF PROJECT THEN CONTACT Email: rohit.1705.mittal@gmail.com
-#FOR ANY SUGGESTIONS REACH ME ON LINKEDIN : https://www.linkedin.com/in/rohitm17/
+#ANY QUERY IN REGARD OF PROJECT THEN CONTACT Email: abhishek.17bcon189@jecrcu.edu.in
+#FOR ANY SUGGESTIONS REACH ME ON LINKEDIN : https://www.linkedin.com/in/abhishek-dixit-34b76a151/
 </PRE>
